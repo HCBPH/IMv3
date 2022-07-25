@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+    <environments default="development">
+        <environment id="development">
+            <transactionManager type="JDBC"/>
+            <dataSource type="POOLED">
+                <property name="driver" value="com.mysql.cj.jdbc.Driver"/>
+<!--                jdbc:mysql://47.97.252.179:3306/lab_test?useUnicode=true&characterEncoding=utf-8&serverTimezone=UTC&useSSL=false&allowPublicKeyRetrieval=true-->
+<!--                <property name="url" value="jdbc:mysql://47.97.252.179:3306/lab_test?useUnicode=true&amp;characterEncoding=utf-8&amp;serverTimezone=UTC&amp;useSSL=false&amp;allowPublicKeyRetrieval=true"/>-->
+                <property name="url" value="jdbc:mysql://47.97.252.179:3306/lab_test?useUnicode=true&amp;characterEncoding=utf-8&amp;serverTimezone=UTC&amp;autoReconnect=true"/>
+                <property name="username" value="lab"/>
+                <property name="password" value="smyxDAeLxE4TwLPK"/>
+                <property name="poolPingQuery" value="SELECT NOW()" />
+                <property name="poolPingEnabled" value="true" />
+            </dataSource>
+        </environment>
+    </environments>
+    <mappers>
+        <mapper class="com.ycj.imv3.mapper.UserMapper"/>
+        <mapper class="com.ycj.imv3.mapper.GroupMapper"/>
+        <mapper class="com.ycj.imv3.mapper.GroupMembersMapper"/>
+        <mapper class="com.ycj.imv3.mapper.HistoryMapper"/>
+        <mapper class="com.ycj.imv3.mapper.TestMapper"/>
+    </mappers>
+</configuration>

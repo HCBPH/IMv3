@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+package com.imv3;
+
+import "user.proto";
+
+option java_multiple_files = false;
+option java_package = "com.ycj.imv3.entity";
+
+message Login{
+  optional User user=1;
+}

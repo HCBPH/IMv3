@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="1.117.74.41">
+  <database-model serializer="dbm" dbms="MARIADB" family-id="MARIADB" format-version="4.32">
+    <root id="1">
+      <DefaultCasing>exact</DefaultCasing>
+      <DefaultEngine>InnoDB</DefaultEngine>
+      <DefaultTmpEngine>InnoDB</DefaultTmpEngine>
+      <ServerVersion>5.5.68</ServerVersion>
+    </root>
+    <schema id="2" parent="1" name="information_schema">
+      <CollationName>utf8_general_ci</CollationName>
+    </schema>
+    <schema id="3" parent="1" name="knowledge">
+      <CollationName>utf8_general_ci</CollationName>
+    </schema>
+    <schema id="4" parent="1" name="lab">
+      <Current>1</Current>
+      <CollationName>utf8_unicode_ci</CollationName>
+    </schema>
+    <schema id="5" parent="1" name="mysql">
+      <CollationName>utf8_unicode_ci</CollationName>
+    </schema>
+    <schema id="6" parent="1" name="performance_schema">
+      <CollationName>utf8_general_ci</CollationName>
+    </schema>
+    <schema id="7" parent="1" name="ycj">
+      <CollationName>utf8_unicode_ci</CollationName>
+    </schema>
+  </database-model>
+</dataSource>

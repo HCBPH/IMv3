@@ -1,0 +1,64 @@
+04-03-12:08:01--[nioEventLoopGroup-3-1]--[INFO]--[login]:computer(1)登录IMv3
+04-03-12:10:18--[nioEventLoopGroup-3-1]--[INFO]--[login]:computer(1)登录IMv3
+04-03-12:14:38--[nioEventLoopGroup-3-1]--[INFO]--[login]:computer(1)登录IMv3
+04-03-13:17:03--[nioEventLoopGroup-3-7]--[INFO]--[login]:computer(1)登录IMv3
+04-03-13:18:15--[nioEventLoopGroup-3-1]--[INFO]--[login]:computer(1)登录IMv3
+04-03-13:47:23--[nioEventLoopGroup-3-1]--[INFO]--[login]:computer(1)登录IMv3
+04-03-13:47:23--[nioEventLoopGroup-3-1]--[ERROR]--[login]:null
+04-03-13:50:37--[nioEventLoopGroup-3-1]--[INFO]--[login]:computer(1)登录IMv3
+04-03-13:50:37--[nioEventLoopGroup-3-1]--[ERROR]--[login]:null
+04-03-13:52:26--[nioEventLoopGroup-3-1]--[INFO]--[login]:computer(1)登录IMv3
+04-03-13:54:30--[nioEventLoopGroup-3-1]--[ERROR]--[login]:null
+04-03-13:55:17--[nioEventLoopGroup-3-1]--[INFO]--[login]:computer(1)登录IMv3
+04-03-13:55:36--[nioEventLoopGroup-3-1]--[ERROR]--[login]:null
+04-03-13:55:46--[nioEventLoopGroup-3-1]--[INFO]--[login]:computer(1)登录IMv3
+04-03-13:55:46--[nioEventLoopGroup-3-1]--[ERROR]--[login]:null
+04-03-13:57:17--[nioEventLoopGroup-3-1]--[INFO]--[login]:computer(1)登录IMv3
+04-03-14:01:30--[nioEventLoopGroup-3-1]--[ERROR]--[login]:null
+04-03-14:01:46--[nioEventLoopGroup-3-1]--[INFO]--[login]:computer(1)登录IMv3
+04-03-14:03:14--[nioEventLoopGroup-3-1]--[INFO]--[login]:computer(1)登录IMv3
+04-03-16:47:22--[nioEventLoopGroup-3-1]--[INFO]--[login]:1:computer登录密码错误
+04-03-16:48:09--[nioEventLoopGroup-3-2]--[INFO]--[login]:1:computer登录密码错误
+04-03-16:49:52--[nioEventLoopGroup-3-3]--[INFO]--[login]:1:computer登录密码错误
+04-03-16:50:04--[nioEventLoopGroup-3-4]--[INFO]--[login]:1:computer登录密码错误
+04-03-16:51:46--[nioEventLoopGroup-3-1]--[INFO]--[login]:1:computer登录密码错误
+04-03-16:55:14--[nioEventLoopGroup-3-2]--[INFO]--[login]:1:computer登录密码错误
+04-03-16:57:50--[nioEventLoopGroup-3-3]--[INFO]--[login]:1:computer登录密码错误
+04-03-16:59:58--[nioEventLoopGroup-3-1]--[INFO]--[login]:1:computer登录密码错误
+04-03-17:05:16--[nioEventLoopGroup-3-1]--[INFO]--[login]:1:computer登录密码错误
+04-03-17:08:21--[nioEventLoopGroup-3-1]--[INFO]--[login]:1:computer登录密码错误
+04-03-17:09:38--[nioEventLoopGroup-3-2]--[INFO]--[login]:1:computer登录密码错误
+04-03-17:11:40--[nioEventLoopGroup-3-3]--[INFO]--[login]:computer(1)登录IMv3
+04-03-17:15:00--[nioEventLoopGroup-3-1]--[INFO]--[login]:computer(1)登录IMv3
+04-03-17:16:25--[nioEventLoopGroup-3-1]--[INFO]--[login]:computer(1)登录IMv3
+04-03-17:16:59--[nioEventLoopGroup-3-2]--[INFO]--[login]:mobile(2)登录IMv3
+04-03-17:18:18--[nioEventLoopGroup-3-1]--[INFO]--[login]:移除用户 1
+04-03-17:18:19--[nioEventLoopGroup-3-2]--[INFO]--[login]:移除用户 2
+04-03-17:18:28--[nioEventLoopGroup-3-3]--[INFO]--[login]:computer(1)登录IMv3
+04-03-17:18:38--[nioEventLoopGroup-3-4]--[INFO]--[login]:mobile(2)登录IMv3
+04-03-17:22:54--[nioEventLoopGroup-3-3]--[INFO]--[login]:移除用户 1
+04-03-17:23:01--[nioEventLoopGroup-3-5]--[WARN]--[login]:mobile(2)被强占下线
+04-03-17:23:01--[nioEventLoopGroup-3-5]--[INFO]--[login]:mobile(2)登录IMv3
+04-03-17:23:13--[nioEventLoopGroup-3-6]--[INFO]--[login]:computer(1)登录IMv3
+04-03-18:44:56--[nioEventLoopGroup-3-5]--[INFO]--[login]:移除用户 2
+04-03-18:44:58--[nioEventLoopGroup-3-6]--[INFO]--[login]:移除用户 1
+04-03-18:46:27--[nioEventLoopGroup-3-1]--[INFO]--[login]:computer(1)登录IMv3
+04-03-18:58:53--[nioEventLoopGroup-3-1]--[INFO]--[login]:computer(1)登录IMv3
+04-03-18:59:05--[nioEventLoopGroup-3-2]--[INFO]--[login]:mobile(2)登录IMv3
+04-03-19:08:28--[nioEventLoopGroup-3-1]--[INFO]--[login]:移除用户 1
+04-03-19:08:30--[nioEventLoopGroup-3-2]--[INFO]--[login]:移除用户 2
+04-03-19:25:03--[nioEventLoopGroup-3-3]--[INFO]--[login]:computer(1)登录IMv3
+04-03-19:43:24--[nioEventLoopGroup-3-4]--[WARN]--[login]:computer(1)被强占下线
+04-03-19:43:24--[nioEventLoopGroup-3-4]--[INFO]--[login]:computer(1)登录IMv3
+04-03-19:44:08--[nioEventLoopGroup-3-4]--[INFO]--[login]:移除用户 1
+04-16-16:55:27--[nioEventLoopGroup-3-7]--[INFO]--[login]:computer(1)登录IMv3
+04-16-16:56:47--[nioEventLoopGroup-3-8]--[WARN]--[login]:computer(1)被强占下线
+04-16-16:56:47--[nioEventLoopGroup-3-8]--[INFO]--[login]:computer(1)登录IMv3
+04-16-16:58:44--[nioEventLoopGroup-3-8]--[INFO]--[login]:移除用户 1
+04-16-16:58:51--[nioEventLoopGroup-3-1]--[INFO]--[login]:computer(1)登录IMv3
+04-16-16:59:46--[nioEventLoopGroup-3-1]--[INFO]--[login]:移除用户 1
+04-16-16:59:53--[nioEventLoopGroup-3-2]--[INFO]--[login]:computer(1)登录IMv3
+04-16-17:02:10--[nioEventLoopGroup-3-3]--[WARN]--[login]:computer(1)被强占下线
+04-16-17:02:10--[nioEventLoopGroup-3-3]--[INFO]--[login]:computer(1)登录IMv3
+04-16-17:04:01--[nioEventLoopGroup-3-3]--[INFO]--[login]:移除用户 1
+04-16-20:12:16--[nioEventLoopGroup-3-1]--[INFO]--[login]:computer(1)登录IMv3

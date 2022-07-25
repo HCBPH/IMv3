@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6b1bd9e0-4a0d-4012-ac21-8da681db9a45" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Protobuf" />
+        <option value="HTML File" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\Tool\Maven\cache" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../Tool/Maven/apache-maven-3.6.3" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="E:\Tool\Maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="23aQ9PG6kEwcDbr2MW10PJY1s7x" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mariadb&#10;mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="database.data.extractors.current.export.id" value="SQL Inserts" />
+    <property name="database.data.extractors.current.id" value="SQL Inserts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/src/main/java/com/ycj/imv3/handler/ClientHeartbeatHandler.java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Project\java_project\IMv3\src\main\java\com\ycj\imv3" />
+      <recent name="E:\Project\java_project\IMv3\src\main\java\com\ycj\imv3\starter" />
+      <recent name="D:\Project\java_project\IMv3\src\main\resources\http" />
+      <recent name="D:\Project\java_project\IMv3\src\main\resources\img" />
+      <recent name="D:\Project\java_project\IMv3\src\main\java\com\ycj\imv3\entity\protobuf" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Project\java_project\IMv3\src" />
+      <recent name="D:\Project\java_project\IMv3\src\main\resources" />
+      <recent name="D:\Project\java_project\IMv3\src\main\resources\META-INF" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ycj.imv3.handler" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ServerTest">
+    <configuration name="ClientTest" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ycj.imv3.test.ClientTest" />
+      <module name="IMv3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ycj.imv3.entity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ycj.imv3.test.ServerTest" />
+      <module name="IMv3" />
+      <option name="PROGRAM_PARAMETERS" value="-Dio.netty.leakDetectionLevel=ADVANCED" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ycj.imv3.entity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ycj.imv3.test.Test" />
+      <module name="IMv3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ycj.imv3.entity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerTest.runServer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IMv3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imv3.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.imv3.test" />
+      <option name="MAIN_CLASS_NAME" value="com.imv3.test.ServerTest" />
+      <option name="METHOD_NAME" value="runServer" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ClientTest" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.ServerTest" />
+      <item itemvalue="JUnit.ServerTest.runServer" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ServerTest" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.ClientTest" />
+        <item itemvalue="JUnit.ServerTest.runServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b1bd9e0-4a0d-4012-ac21-8da681db9a45" name="Default Changelist" comment="" />
+      <created>1641969569215</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641969569215</updated>
+      <workItem from="1641969570429" duration="3839000" />
+      <workItem from="1641980541950" duration="3177000" />
+      <workItem from="1642048801254" duration="11523000" />
+      <workItem from="1642138813328" duration="13558000" />
+      <workItem from="1642171561192" duration="3258000" />
+      <workItem from="1642175203104" duration="1470000" />
+      <workItem from="1642252732149" duration="598000" />
+      <workItem from="1642415112102" duration="1355000" />
+      <workItem from="1642417393163" duration="736000" />
+      <workItem from="1642418164690" duration="13557000" />
+      <workItem from="1642483993330" duration="5722000" />
+      <workItem from="1642521428055" duration="3565000" />
+      <workItem from="1642586691246" duration="17139000" />
+      <workItem from="1643034347285" duration="403000" />
+      <workItem from="1643089670469" duration="4813000" />
+      <workItem from="1643106204271" duration="4470000" />
+      <workItem from="1643175651313" duration="1510000" />
+      <workItem from="1643181548322" duration="1531000" />
+      <workItem from="1643261605863" duration="7078000" />
+      <workItem from="1643419678890" duration="13359000" />
+      <workItem from="1643510391249" duration="11723000" />
+      <workItem from="1643609888022" duration="1330000" />
+      <workItem from="1643702921556" duration="1345000" />
+      <workItem from="1643704302820" duration="467000" />
+      <workItem from="1644032427933" duration="634000" />
+      <workItem from="1644045361472" duration="598000" />
+      <workItem from="1644059053781" duration="4064000" />
+      <workItem from="1644068447183" duration="596000" />
+      <workItem from="1644125087193" duration="17847000" />
+      <workItem from="1644148083302" duration="16621000" />
+      <workItem from="1644210173762" duration="12037000" />
+      <workItem from="1644415642849" duration="1244000" />
+      <workItem from="1644472847950" duration="944000" />
+      <workItem from="1644548181620" duration="406000" />
+      <workItem from="1644558150858" duration="664000" />
+      <workItem from="1644572603698" duration="6871000" />
+      <workItem from="1644590457378" duration="5762000" />
+      <workItem from="1644646859076" duration="13963000" />
+      <workItem from="1644754572724" duration="127000" />
+      <workItem from="1644813457971" duration="96000" />
+      <workItem from="1644814286732" duration="4097000" />
+      <workItem from="1644826463399" duration="1146000" />
+      <workItem from="1644828917363" duration="1539000" />
+      <workItem from="1644931494498" duration="1885000" />
+      <workItem from="1645701403947" duration="10000" />
+      <workItem from="1645948364253" duration="21000" />
+      <workItem from="1645976445019" duration="36000" />
+      <workItem from="1646228622317" duration="14000" />
+      <workItem from="1646286476699" duration="17000" />
+      <workItem from="1646286703682" duration="6308000" />
+      <workItem from="1646303089541" duration="279000" />
+      <workItem from="1646410282073" duration="205000" />
+      <workItem from="1646411020031" duration="3247000" />
+      <workItem from="1648902076484" duration="1263000" />
+      <workItem from="1648903394996" duration="130000" />
+      <workItem from="1648903546988" duration="206000" />
+      <workItem from="1648903781940" duration="349000" />
+      <workItem from="1648904147445" duration="1007000" />
+      <workItem from="1648905191949" duration="397000" />
+      <workItem from="1648905654906" duration="1816000" />
+      <workItem from="1648907514066" duration="1210000" />
+      <workItem from="1648952749379" duration="26503000" />
+      <workItem from="1648987516779" duration="377000" />
+      <workItem from="1649245412183" duration="86000" />
+      <workItem from="1650042218228" duration="340000" />
+      <workItem from="1650083442780" duration="20553000" />
+      <workItem from="1650117545390" duration="19000" />
+      <workItem from="1650166526756" duration="274000" />
+      <workItem from="1650173944010" duration="2555000" />
+      <workItem from="1653739842224" duration="53000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.log" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ycj/imv3/handler/ServerGroupMessageHandler.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ycj/imv3/handler/HttpRequestHandler.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ycj/imv3/handler/HttpRequestHandler.java</url>
+          <line>239</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="ctx.channel()" language="JAVA" />
+        <watch expression="HashMap&lt;String, String&gt; bodyParams = parseBody(body)" language="JAVA" />
+        <watch expression="ctx" />
+        <watch expression="postRequest.getBodyHttpData(&quot;name&quot;)" language="JAVA" />
+        <watch expression="((MixedAttribute)postRequest.getBodyHttpData(&quot;name&quot;)).attribute" custom="io.netty.handler.codec.http.multipart.MixedAttribute" />
+        <watch expression="socketChannel.pipeline()" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

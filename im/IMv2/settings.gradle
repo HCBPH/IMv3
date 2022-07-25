@@ -1,0 +1,2 @@
+rootProject.name = "IMv2"
+include ':app'

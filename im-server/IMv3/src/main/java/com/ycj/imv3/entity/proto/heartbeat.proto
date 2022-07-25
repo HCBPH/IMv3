@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+package com.imv3;
+
+option java_multiple_files = false;
+option java_package = "com.ycj.imv3.entity";
+
+message Heartbeat{
+  int64 uid=1;
+  int32 state=2;
+  optional double loca1=3;
+  optional double loca2=4;
+  optional string location=5;
+}
+

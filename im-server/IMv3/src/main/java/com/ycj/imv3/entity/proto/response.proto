@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+package com.imv3;
+
+option java_multiple_files = false;
+option java_package = "com.ycj.imv3.entity";
+
+message Response{
+  int64 from=1;
+  int64 to=2;
+  int32 type=3;
+  string content=4;
+  int64 timestamp=5;
+}
